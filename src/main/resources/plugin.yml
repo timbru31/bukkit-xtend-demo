@@ -1,0 +1,9 @@
+name: XtendDemo
+main: de.dustplanet.xtenddemo.XtendDemo
+version: 0.0.01
+author: xGhOsTkiLLeRx
+website: https://github.com/xGhOsTkiLLeRx/bukkit-xtend-demo
+commands:
+  xtend:
+    description: Greets all online players
+    usage: /xtend - unleashes the Xtend power!
