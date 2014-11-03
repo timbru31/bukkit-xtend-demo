@@ -19,7 +19,7 @@ class XtendDemo extends JavaPlugin implements Listener, CommandExecutor {
 
     @EventHandler
     def onPlayerJoin(PlayerJoinEvent e) {
-       greetPlayer(e.player, ChatColor.RED)
+        greetPlayer(e.player, ChatColor.RED)
     }
 
     def greetPlayer(Player player, ChatColor color) {
