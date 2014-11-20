@@ -8,7 +8,7 @@
   <packaging>jar</packaging>
 
   <name>xtenddemo</name>
-  <url>https://github.com/xGhOsTkiLLeRx/bukkit-xtend-demo</url>
+  <url>https://github.com/timbru31/bukkit-xtend-demo</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
