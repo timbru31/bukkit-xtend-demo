@@ -3,7 +3,7 @@ main: de.dustplanet.xtenddemo.XtendDemo
 version: 0.0.1
 author: xGhOsTkiLLeRx
 website: https://github.com/timbru31/bukkit-xtend-demo
-api-version: 1.13
+api-version: 1.14
 commands:
   xtend:
     description: Greets all online players
